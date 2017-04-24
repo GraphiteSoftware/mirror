@@ -50,3 +50,4 @@ bintray {
 apply from: "$project.rootDir/config/java-checkstyle.gradle"
 apply from: "$project.rootDir/config/java-maven-publication.gradle"
 apply from: "$project.rootDir/config/genymobile-bintray.gradle"
+apply from: "$project.rootDir/config/graphite-maven-upload-archives.gradle"
